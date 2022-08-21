@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Fundamentos1StoreContainer" CdmEntityContainer="Fundamentos">
+    <EntitySetMapping Name="Pessoas">
+      <EntityTypeMapping TypeName="IsTypeOf(Fundamentos1.Pessoa)">
+        <MappingFragment StoreEntitySet="Pessoas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

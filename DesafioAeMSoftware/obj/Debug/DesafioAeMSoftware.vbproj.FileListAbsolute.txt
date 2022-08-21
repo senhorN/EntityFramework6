@@ -1,0 +1,17 @@
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\DesafioAeMSoftware.exe.config
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\DesafioAeMSoftware.exe
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\DesafioAeMSoftware.pdb
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\DesafioAeMSoftware.xml
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\EntityFramework.dll
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\EntityFramework.xml
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.vbproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.Form1.resources
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.Resources.resources
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.vbproj.GenerateResource.cache
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.vbproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.vbproj.CopyComplete
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.exe
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.xml
+C:\Users\nick6\source\repos\DesafioAeMSoftware\DesafioAeMSoftware\obj\Debug\DesafioAeMSoftware.pdb
